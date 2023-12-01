@@ -3633,10 +3633,10 @@ input, select, textarea {
 		}
 
 		.banner.style1.image-position-right .image img {
-			-moz-object-position: right;
-			-webkit-object-position: right;
-			-ms-object-position: right;
-			object-position: right;
+			-moz-object-position: top right;
+			-webkit-object-position: top right;
+			-ms-object-position: top right;
+			object-position: top right;
 		}
 
 /* Banner (style2) */
