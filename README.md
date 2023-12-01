@@ -1,2 +1,2 @@
 # shirayuki.github.io
-My Curriculum Vitae
+theme: jekyll-theme-minimal
