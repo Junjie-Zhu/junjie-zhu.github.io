@@ -23,7 +23,7 @@ repository               : "Junjie-Zhu/junjie-zhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Junjie Zhu"
   pronouns         : # example: "she/her"  
   bio              : "Biology Ph.D. @Shanghai Jiao Tong University\nWorking on protein dynamic structure generation"
